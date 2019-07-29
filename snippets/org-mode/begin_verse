@@ -3,4 +3,4 @@
 # key: <v
 # type: command
 # --
-(doom-snippets-expand :uuid "verse")
+(doom-snippet-expand :uuid "verse")

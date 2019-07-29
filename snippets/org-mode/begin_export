@@ -3,4 +3,4 @@
 # key: <E
 # type: command
 # --
-(doom-snippets-expand :uuid "export")
+(doom-snippet-expand :uuid "export")
