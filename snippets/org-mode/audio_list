@@ -2,5 +2,5 @@
 # name: au
 # key: au
 # --
-<li><a href="#" data-src="../music/$1">
+<li><a href="#" data-src="~/project/blog/static/music/$1">
 $2  </a></li>
