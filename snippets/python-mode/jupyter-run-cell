@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: jupyter-python-run-cell
+# key: jp
+# --
+# %%
