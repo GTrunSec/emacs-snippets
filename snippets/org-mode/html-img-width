@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: html-img-width
+# key: hiw
+# --
+#+CAPTION: img width size 800
+#+ATTR_HTML: :width 800
+
