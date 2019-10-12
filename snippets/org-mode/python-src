@@ -2,10 +2,6 @@
 # name:python-src 
 # key: py-
 # --
-<<<<<<< HEAD
 #+begin_src python :session :exports both
-=======
-#+begin_src python :session
->>>>>>> master
 $1
 #+end_src
